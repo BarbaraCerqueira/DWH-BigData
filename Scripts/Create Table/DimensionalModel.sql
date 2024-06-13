@@ -7,6 +7,22 @@
 -- Barbara Varela Bonfim (DRE 120130698)
 -----------------------------------------------------------
 
+-- Table: FatoAluguel
+CREATE TABLE FatoAluguel (
+    ID_ALUGUEL int  NOT NULL,
+    ID_TEMPO_RETIRADA int  NOT NULL,
+    ID_TEMPO_DEVOLUCAO_PREVISTA int  NOT NULL,
+    ID_TEMPO_DEVOLUCAO_REALIZADA int  NOT NULL,
+    VALOR_INICIAL float(10,2)  NOT NULL,
+    VALOR_FINAL float(10,2)  NOT NULL,
+    ID_CLIENTE int  NOT NULL,
+    ID_VEICULO int  NOT NULL,
+    ID_PATIO_RETIRADA int  NOT NULL,
+    ID_PATIO_DEVOLUCAO int  NOT NULL,
+    ID_PROTECAO int  NOT NULL,
+    STATUS int  NOT NULL,
+    CONSTRAINT FatoAluguel_pk PRIMARY KEY (ID_ALUGUEL)
+);
 
 -- Table: DimCliente
 CREATE TABLE DimCliente (
