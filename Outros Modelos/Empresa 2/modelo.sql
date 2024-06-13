@@ -1,6 +1,3 @@
-## Observações
-O grupo da Empresa 2 não disponibilizou a imagem do Modelo Entidade-relacionamento transacional desenvolvido por eles, apenas o script SQL de criação das tabelas, disposto a seguir:
-
 -- Tabela Cliente
 CREATE TABLE [Cliente]
 (
