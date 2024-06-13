@@ -1,0 +1,8 @@
+-----------------------------------------------------------
+-- Avaliação de DWH - Big Data - 2024.1
+-- Grupo Formato por:
+-- Carlos Henrique Ferreira Brito Filho (DRE 120081409)
+-- Bárbara Rodrigues dos Santos Cerqueira (DRE 117198425)
+-- Ramon de Attayde Barros de Souza (DRE 122047728)
+-- Barbara Varela Bonfim (DRE 120130698)
+-----------------------------------------------------------
