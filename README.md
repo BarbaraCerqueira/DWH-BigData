@@ -12,7 +12,7 @@ Repositório criado para armazenar os scripts/relatórios da avaliação de Data
 
 - `Modelos ER/`: Contém o Modelo Entidade-Relacionamento do Banco Transacional, Esquema de Staging e Data Warehouse do nosso grupo.
 - `Outros Modelos/`: Contém os scrips SQL de criação dos modelos relacionais de outros 3 grupos da turma para integração.
-- `Relatórios/`: Contém todos os relatórios descritivos sobre o trabalho.
+- `Relatório/`: Contém todos o relatório descritivo sobre o trabalho.
 - `Scripts/Create Table/`: Contém os scripts SQL de criação dos modelos projetados por nosso grupo.
 - `Scripts/ETL/`: Contém os scripts ETL de extração, integração (transformação) e carga no Data Warehouse.
 - `Scripts/Relatorios/`: Contém os scripts SQL de geração de relatórios.
